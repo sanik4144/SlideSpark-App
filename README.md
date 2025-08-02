@@ -1,14 +1,16 @@
 # SlideSpark 📚⚡  
 Your go-to app for accessing course slides and class content, organized department-wise. Built with students in mind.
 
-![SlideSpark Screenshot](screenshots/departments.png)
+
+### 🔗 [Available on Google Play Store](https://play.google.com/store/apps/details?id=com.SparkStudio.slideSpark)
+<p align="center">
+  <img src="screenshots/playstore.jpg" alt="Welcome Screen" width="600"/>
+</p>
 
 ---
 
 ## 📱 About the App
 SlideSpark helps students easily find and manage slides for their academic courses across various departments. Whether you're in CSE, EEE, SWE, or NFE, this app ensures that your study resources are just a tap away.
-
-### 🔗 [Available on Google Play Store](https://play.google.com/store/apps/details?id=com.SparkStudio.slideSpark)
 
 ---
 
@@ -28,9 +30,14 @@ SlideSpark helps students easily find and manage slides for their academic cours
 ---
 
 ## 📸 Screenshots
-> *(Add your own screenshots like the one below inside a folder named `/screenshots`)*
 
-![Department List](screenshots/departments.png)
+<p align="center">
+  <img src="screenshots/welcome.jpg" alt="Welcome Screen" width="200"/>
+  <img src="screenshots/departments.jpg" alt="Department List" width="200"/>
+  <img src="screenshots/courses.jpg" alt="Courses Screen" width="200"/>
+  <img src="screenshots/myspace.jpg" alt="My Space" width="200"/>
+</p>
+
 
 ---
 
